@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/oddedodd/noroff-workflow-joker/issues"
   },
-  "homepage": "https://github.com/oddedodd/noroff-workflow-joker#readme"
+  "homepage": "https://github.com/oddedodd/noroff-workflow-joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
