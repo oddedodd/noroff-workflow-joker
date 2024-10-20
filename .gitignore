@@ -1,2 +1,5 @@
+# Mac OS X Finder files
+.DS_Store
+
 # npm folders to ignore
 /node_modules

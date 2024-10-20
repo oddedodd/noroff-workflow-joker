@@ -1,0 +1,32 @@
+{
+  "name": "oddedodd-joker",
+  "version": "0.1.0",
+  "description": "Application that tells jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oddedodd/noroff-workflow-joker.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "website"
+  ],
+  "author": "Odd Egil H. Selnes <post@odde.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oddedodd/noroff-workflow-joker/issues"
+  },
+  "homepage": "https://github.com/oddedodd/noroff-workflow-joker#readme",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
